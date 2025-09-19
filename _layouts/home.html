@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+
+
+<main class="uk-container">
+
+    <ul class="uk-padding-remove">
+        {% for post in site.posts %}
+        <li class="uk-flex-column uk-flex uk-margin-medium-bottom uk-margin-medium-top">
+            <a href="{{ post.url | relative_url }}">{{ post.date | date: "%Y.%m.%d" }} {{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+
+</main>

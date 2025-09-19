@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link href="https://fonts.cdnfonts.com/css/cascadia-code" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.23.12/dist/css/uikit.min.css" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+<nav class="uk-navbar-container">
+    <div class="uk-container">
+        <div uk-navbar>
+
+            <div class="uk-navbar-left">
+
+                <a href="/" class="uk-text-large uk-text-capitalize">Cartel Developer</a>
+
+
+            </div>
+
+            <div class="uk-navbar-right">
+
+                <ul class="uk-navbar-nav">
+                    <li class="uk-active"><a class="uk-text-lowercase" href="https://github.com/cartel-developer">Github</a></li>
+                </ul>
+
+            </div>
+
+        </div>
+    </div>
+</nav>
+
+
+{{ content }}
+
+<hr>
+
+<footer class="uk-container uk-margin-medium-bottom">
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+</footer>
+
+<!-- UIkit JS -->
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.23.12/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.23.12/dist/js/uikit-icons.min.js"></script>
+
+</body>
+</html>
