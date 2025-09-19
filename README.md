@@ -1,1 +1,2 @@
-# test
+sometimes i think that ...
+It is possible to move away from the primary, “official” use of languages and focus on their secondary or practical uses. For example, instead of using a language strictly for formal writing or communication, you could explore it for creative expression, technical shorthand, cultural play, or even personal thought organization.
