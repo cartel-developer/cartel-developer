@@ -22,8 +22,8 @@ title: Cartel Developer
 email: cartel.company.official@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   this site wrote by who like programming creativity things in computer .
-baseurl: "/cartel-developer"
-url: "/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "cartel-developer.github.io/cartel-developer" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  cartel-developer
 
