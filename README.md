@@ -1,10 +1,15 @@
-Skill:
+## Skills:
 
-c++  [██░░░░░░░░░░] 20%
-
-bash [█░░░░░░░░░░░] 10%
-
-git  [█░░░░░░░░░░░] 10%
-
+### c++&nbsp;&nbsp;&nbsp;==−−−−−−−− 20%
 
 C++ developer focused on high-performance software, clean code, and clean architecture. I believe performance expands horizons and helps build a clearer vision for better software.
+
+
+### bash&nbsp;=−−−−−−−−− 10%
+I use Bash to manage my project files and folders.
+
+
+### git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=−−−−−−−−− 10%
+I use Git for project changes and version control.
+
+
