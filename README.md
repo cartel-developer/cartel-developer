@@ -1,6 +1,6 @@
 ## Skills:
 
-### c++&nbsp;&nbsp;&nbsp;==−−−−−−−− 20%
+### c++&nbsp;&nbsp;&nbsp;===−−−−−−− 30%
 
 C++ developer focused on high-performance software, clean code, and clean architecture. I believe performance expands horizons and helps build a clearer vision for better software.
 
@@ -9,7 +9,7 @@ C++ developer focused on high-performance software, clean code, and clean archit
 I use Bash to manage my project files and folders.
 
 
-### git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=−−−−−−−−− 10%
+### git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;==−−−−−−−− 20%
 I use Git for project changes and version control.
 
 
