@@ -9,7 +9,7 @@ C++ developer focused on high-performance software, clean code, and clean archit
 I use Bash to manage my project files and folders.
 
 
-### git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;===−−−−−−− 30%
+### git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;====−−−−−− 40%
 I use Git for project changes and version control.
 
 
